@@ -1,0 +1,33 @@
+{
+  "server": {
+    "host": "YOUR_SERVER.aternos.me",
+    "port": 25565,
+    "version": false
+  },
+  "bot": {
+    "username": "Alex_Player01",
+    "auth": "offline",
+    "loginPassword": "",
+    "reconnectDelayMs": 35000,
+    "autoRespawn": true
+  },
+  "behavior": {
+    "actionIntervalMinMs": 4000,
+    "actionIntervalMaxMs": 8000,
+    "walkDurationMinMs": 800,
+    "walkDurationMaxMs": 2300,
+    "enableSprint": true,
+    "enableJump": true,
+    "enableSneak": true,
+    "enableSwing": true,
+    "enableLook": true
+  },
+  "combat": {
+    "attackHostileMobs": true,
+    "targetRadius": 5
+  },
+  "webServer": {
+    "enabled": true,
+    "port": 3000
+  }
+}
