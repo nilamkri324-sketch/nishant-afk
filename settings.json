@@ -1,7 +1,7 @@
 {
   "server": {
-    "host": "YOUR_SERVER.aternos.me",
-    "port": 25565,
+    "host": "Playfun-C1IM.aternos.me",
+    "port": 52411,
     "version": false
   },
   "bot": {
